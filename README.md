@@ -16,7 +16,7 @@ Dabei gilt folgende Konvention:
 
 **Was soll in diese Datei?**
 
-Die Datei sollte einen Witz enthalten, den Du auch einer Kolleginnen bzw. einem Kollegen erzählen würdest.
+Die Datei sollte einen Witz enthalten, den Du auch Kolleginnen bzw. Kollegen erzählen würdest.
   
 ### Beispiel:
 Humpty Dumpty will am CSD - Kurs teilnehmen. Dazu checkt er dieses Repository aus und erzeugt lokal eine Markdown-Datei. Da es der 01. April 2023 ist, nennt er die Datei *230401-hd.md*. Als Inhalt gibt es folgenden Witz:
@@ -43,7 +43,7 @@ The convention is:
 
 **What should be the content of this file?**
 
-The file should contain a joke that you would tell to a colleague as well.
+The file should contain a joke that you would tell to colleagues as well.
   
 ### Example:
 Humpty Dumpty wants to participate in the CSD course. Therefore he checks out this repository and creates a Markdown file locally. Since it is the 01. April 2023, he calls the file *230401-hd.md*. As content there is the following joke:
